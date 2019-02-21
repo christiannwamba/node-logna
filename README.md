@@ -6,7 +6,7 @@ This is a Node.js project that uses LogDNA to manage logs on Manifold.
 Getting Started:
 
 ## Clone this repository
-`git clone https://github.com/Kennypee/Node-Logdna`
+`git clone https://github.com/christiannwamba/node-logna`
 
 ## Install server dependencies
 `npm install`
